@@ -7,4 +7,14 @@ let name = "arav"
 let age = 20
 let isLoggedin = false
 
+console.log(typeof null);  // type is of object
+console.log(typeof age);
+
+//number -- 2^53
+//bigInt
+//string -- ""
+//boolean -- true/false
+//null -- standalone value
+//undefined -- undefined
+//symbol -- unique
 
