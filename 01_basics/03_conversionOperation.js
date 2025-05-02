@@ -16,7 +16,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
 
 // "" -- false
-// "abc" -- true
+// "abc" -- true 
 
 let num = 33
 let stringnum = String(num)
