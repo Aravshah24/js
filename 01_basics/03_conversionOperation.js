@@ -23,4 +23,3 @@ let stringnum = String(num)
 console.log(stringnum);
 console.log(typeof stringnum);
 
-
