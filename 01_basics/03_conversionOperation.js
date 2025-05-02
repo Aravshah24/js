@@ -17,7 +17,7 @@ console.log(booleanIsLoggedIn);
 
 // "" -- false
 // "abc" -- true 
-
+let n = 3
 let num = 33
 let stringnum = String(num)
 console.log(stringnum);
